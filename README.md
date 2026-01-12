@@ -80,3 +80,34 @@ You own every frame.
 
 **Stop typing static text.**  
 **Start making stories that move.**
+
+instagram stories maker  
+tiktok story maker  
+text to video  
+animated text  
+story maker  
+video from text  
+free story maker  
+no watermark story  
+offline story maker  
+instagram story creator  
+tiktok story creator  
+text animation  
+mp4 story  
+mobile story maker  
+social media story  
+content creator tool  
+easy video maker  
+quick story maker  
+text to mp4  
+video for instagram  
+video for tiktok  
+story video maker  
+animated quote  
+caption video  
+text on video  
+simple video maker  
+beginner friendly  
+no editing needed  
+fast story maker  
+viral story maker
