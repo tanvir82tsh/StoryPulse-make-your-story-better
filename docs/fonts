@@ -1,0 +1,11 @@
+# Font Licensing
+
+StoryPulse includes the following open-source fonts:
+
+- **Inter** — SIL Open Font License (OFL)
+- **Manrope** — SIL Open Font License (OFL)
+- **Orbitron** — SIL Open Font License (OFL)
+
+All fonts are embedded locally and used solely for video rendering.
+
+You may use generated videos commercially — no font attribution required.
